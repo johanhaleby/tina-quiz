@@ -1,0 +1,21 @@
+{
+  "name": "tina-quiz",
+  "version": "0.0.0",
+  "description": "Quiz game for Tinas 30th birthday",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/johanhaleby/tina-quiz.git"
+  },
+  "author": "Johan Haleby",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "3805702d144ffdfaec463daa3fb16844df04cf08", 
+  "devDependencies": {
+	  "mocha": "~1.0",
+  	  "chai" : "~0.5"
+  }
+}
